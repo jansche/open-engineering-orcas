@@ -8,6 +8,9 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 
 Find all artwork in [the /design directory of this repo](designs/).
 
+![a collection of orca designs](https://github.com/jansche/open-engineering-orcas/assets/22521588/40d0368b-d447-46af-9fe1-14807c1a96ba)
+
+
 ## Contribution
 
 You are free to create custom versions of OEEEO, as long as they don't violate our [Code of Conduct](CODE_OF_CONDUCT.md). You can submit them as PRs to this repo, and if the maintainers find them fit the general OEEEO theme, we will merge them into the collection.
