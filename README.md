@@ -12,6 +12,8 @@ Inclusive designs:
 
 ![orca with type 1 diabetes](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Orca%20w%20Type%201%20Diabetes.png)
 
+![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled_orca.png)
+
 Find all artwork in [the /design directory of this repo](design/).
 
 ![a collection of orca designs](https://github.com/jansche/open-engineering-orcas/assets/22521588/40d0368b-d447-46af-9fe1-14807c1a96ba)
