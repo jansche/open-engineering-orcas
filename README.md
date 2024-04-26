@@ -16,6 +16,8 @@ Inclusive designs:
 
 ![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse_orca.png)
 
+![hidden disabilities orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/hidden%20disabilities%20orca%20transparent.png)
+
 Find all artwork in [the /design directory of this repo](design/).
 
 ![a collection of orca designs](https://github.com/jansche/open-engineering-orcas/assets/22521588/40d0368b-d447-46af-9fe1-14807c1a96ba)
