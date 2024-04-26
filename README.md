@@ -12,7 +12,7 @@ Inclusive designs:
 
 ![orca with type 1 diabetes](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Orca%20w%20Type%201%20Diabetes.png)
 
-![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled_orca.png)
+![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled%20orca%20transparent.png)
 
 ![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20orca%20transparent.png)
 
