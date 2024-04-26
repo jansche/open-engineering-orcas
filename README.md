@@ -14,7 +14,7 @@ Inclusive designs:
 
 ![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled_orca.png)
 
-![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse_orca.png)
+![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20orca%20transparent.png)
 
 ![hidden disabilities orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/hidden%20disabilities%20orca%20transparent.png)
 
