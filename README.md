@@ -18,6 +18,8 @@ Inclusive designs:
 
 ![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20orca%20transparent.png)
 
+![neurodiverse superhero orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20superhero%20orca.png)
+
 ![hidden disabilities orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/hidden%20disabilities%20orca%20transparent.png)
 
 Find all artwork in [the /design directory of this repo](design/). The design/comic directory holds the most recent and diverse imagery, while the design/vector directory contains the motion studies that are being used as templates.
