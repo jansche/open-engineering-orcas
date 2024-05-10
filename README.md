@@ -4,6 +4,8 @@ You're at the Creative Commons home of OEEEO and their friends
 
 OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pronouns are they/them, they are non-binary. They are a majestic orca with a kind soul. OEEEO can kill sharks, but most of the time they decide to be calm and friendly to everyone. They own the superpower of being totally open, sometimes they "show up" in 100% transparency. You'll never know if they are around. A little bit spooky, to be honest.
 
+![orca underwater scenery, with OEEEO as a sprayer, who tags their friends](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/orca_sprayer_scenery.png)
+
 ![flushed face orca](https://github.com/jansche/open-engineering-orcas/assets/22521588/f2392697-3aa0-4de2-b2e1-0d099ae1d495)
 
 ![comic style pride orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png)
