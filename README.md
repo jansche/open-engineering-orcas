@@ -3,6 +3,7 @@
 You're at the Creative Commons home of OEEEO and their friends
 
 > We're the shepherds of the sea. If you enter our territory, you will play by our rules. These rules are fair and guarantee a harmonic together of all ocean critters. Don't invite trouble to our game, unless you can take the echo.
+
 *OEEEO, an orca leader*   
 
 OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pronouns are they/them, they are non-binary. They are a majestic orca with a kind soul. OEEEO can kill sharks, but most of the time they decide to be calm and friendly to everyone. They own the superpower of being 100% transparent, sometimes they even "show up" as that. You'll never know if they are around. That's a little bit spooky? Yes it is, to be honest.
