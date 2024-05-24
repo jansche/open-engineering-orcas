@@ -8,27 +8,27 @@ You're at the Creative Commons home of OEEEO and their friends
 
 OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pronouns are they/them, they are non-binary. They are a majestic orca with a kind soul. OEEEO can kill sharks, but most of the time they decide to be calm and friendly to everyone. They own the superpower of being 100% transparent, sometimes they even "show up" as that. You'll never know if they are around. That's a little bit spooky? Yes it is, to be honest.
 
-![orca underwater scenery, with OEEEO as a sprayer, who tags their friends](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/orca_sprayer_scenery.png)
+![orca underwater scenery, with OEEEO as a sprayer, who tags their friends](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/orca_sprayer_scenery.png?raw=true)
 
-![laughing eyes orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png)
+![laughing eyes orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png?raw=true)
 
-![comic style pride orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png)
+![comic style pride orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true)
 
 Inclusive designs:
 
-![orca with type 1 diabetes](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Orca%20w%20Type%201%20Diabetes.png)
+![orca with type 1 diabetes](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Orca%20w%20Type%201%20Diabetes.png?raw=true)
 
-![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled%20orca%20transparent.png)
+![abled orca with a robotic fin](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/abled%20orca%20transparent.png?raw=true)
 
-![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20orca%20transparent.png)
+![neurodiverse orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20orca%20transparent.png?raw=true)
 
-![neurodiverse superhero orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20superhero%20orca.png)
+![neurodiverse superhero orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/neurodiverse%20superhero%20orca.png?raw=true)
 
-![hidden disabilities orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/hidden%20disabilities%20orca%20transparent.png)
+![hidden disabilities orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/hidden%20disabilities%20orca%20transparent.png?raw=true)
 
 Find all artwork in [the /design directory of this repo](design/). The design/comic directory holds the most recent and diverse imagery, while the design/vector directory contains the motion studies that are being used as templates.
 
-![a collection of orca designs](https://github.com/jansche/open-engineering-orcas/assets/22521588/40d0368b-d447-46af-9fe1-14807c1a96ba)
+![a collection of orca designs](https://github.com/jansche/open-engineering-orcas/assets/22521588/40d0368b-d447-46af-9fe1-14807c1a96ba?raw=true)
 
 
 ## Contribution
