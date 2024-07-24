@@ -14,6 +14,25 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 
 ![comic style pride orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true)
 
+Most recent additions to OEEEO's family:
+
+![smash the patriarchy orca](https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503)
+
+![robotic fin orca](https://github.com/user-attachments/assets/29a91a74-8f5b-4640-af8b-311b6bf96e75)
+
+![orca with visual impairment](https://github.com/user-attachments/assets/1c971858-f7ff-449c-8926-0ef2a76bbe1f)
+
+![magician orca](https://github.com/user-attachments/assets/2a62581b-8799-42e3-9c3a-801e392bf711)
+
+![holiday orca](https://github.com/user-attachments/assets/968eca0b-2d46-4205-add1-1bf71cc5d7bf)
+
+![neptune orca](https://github.com/user-attachments/assets/527aa907-b7d0-4615-917e-6db88d82c005)
+
+![sushi chef orca](https://github.com/user-attachments/assets/088b3290-bc9b-4eae-b1ae-a03cd8a82bae)
+
+
+
+
 Inclusive designs:
 
 ![orca with type 1 diabetes](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Orca%20w%20Type%201%20Diabetes.png?raw=true)
