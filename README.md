@@ -10,25 +10,27 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 
 ![orca underwater scenery, with OEEEO as a sprayer, who tags their friends](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/orca_sprayer_scenery.png?raw=true)
 
-<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png?raw=true" alt="aughing eyes orca" width=200>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png?raw=true" title="aughing eyes orca" alt="laughing eyes orca" width=300>
 
-![comic style pride orca](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true)
+comic style pride orca
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="aughing eyes orca" alt="laughing eyes orca" width=300>
 
 Most recent additions to OEEEO's family:
 
-![smash the patriarchy orca](https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503)
+smash the patriarchy orca
+<img src="https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503" title="laughing eyes orca" alt="laughing eyes orca" width=300>
 
-![robotic fin orca](https://github.com/user-attachments/assets/29a91a74-8f5b-4640-af8b-311b6bf96e75)
+<img src="https://github.com/user-attachments/assets/29a91a74-8f5b-4640-af8b-311b6bf96e75" title="robotic fin orca" alt="robotic fin orca" width=300>
 
-![orca with visual impairment](https://github.com/user-attachments/assets/1c971858-f7ff-449c-8926-0ef2a76bbe1f)
+<img src="https://github.com/user-attachments/assets/1c971858-f7ff-449c-8926-0ef2a76bbe1f" title="orca with visual impairment" alt="orca with visual impairment" width=300>
 
-![magician orca](https://github.com/user-attachments/assets/2a62581b-8799-42e3-9c3a-801e392bf711)
+<img src="https://github.com/user-attachments/assets/2a62581b-8799-42e3-9c3a-801e392bf711" title="magician orca" alt="magician orca" width=300>
 
-![holiday orca](https://github.com/user-attachments/assets/968eca0b-2d46-4205-add1-1bf71cc5d7bf)
+<img src="https://github.com/user-attachments/assets/968eca0b-2d46-4205-add1-1bf71cc5d7bf" title="holiday orca" alt="holiday orca" width=300>
 
-![neptune orca](https://github.com/user-attachments/assets/527aa907-b7d0-4615-917e-6db88d82c005)
+<img src="https://github.com/user-attachments/assets/527aa907-b7d0-4615-917e-6db88d82c005" title="neptune orca" alt="neptune orca" width=300>
 
-![sushi chef orca](https://github.com/user-attachments/assets/088b3290-bc9b-4eae-b1ae-a03cd8a82bae)
+<img src="https://github.com/user-attachments/assets/088b3290-bc9b-4eae-b1ae-a03cd8a82bae" title="sushi chef orca" alt="sushi chef orca" width=300>
 
 
 
