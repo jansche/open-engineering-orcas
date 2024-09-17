@@ -10,15 +10,13 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 
 ![orca underwater scenery, with OEEEO as a sprayer, who tags their friends](https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/orca_sprayer_scenery.png?raw=true)
 
-<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png?raw=true" title="aughing eyes orca" alt="laughing eyes orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/engineer%20orca.png?raw=true" title="laughing eyes orca" alt="laughing eyes orca" width=300>
 
-comic style pride orca
-<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="aughing eyes orca" alt="laughing eyes orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="comic style pride orca" alt="comic style pride orca" width=300>
 
 Most recent additions to OEEEO's family:
 
-smash the patriarchy orca
-<img src="https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503" title="laughing eyes orca" alt="laughing eyes orca" width=300>
+<img src="https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
 
 <img src="https://github.com/user-attachments/assets/29a91a74-8f5b-4640-af8b-311b6bf96e75" title="robotic fin orca" alt="robotic fin orca" width=300>
 
