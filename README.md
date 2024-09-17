@@ -16,8 +16,7 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 
 Most recent additions to OEEEO's family:
 
-<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Borg_Orca_with_bionic_eye_and_fin_elements.png?raw=true" title="Borg Orca with bionic eye and fin elements" alt="Borg Orca with bionic eye and fin elements" width=300>
-<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Coffee_Orca_with_mug.png?raw=true" title="Coffee Orca with mug" alt="Coffee Orca with mug" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Borg_Orca_with_bionic_eye_and_fin_elements.png?raw=true" title="Borg Orca with bionic eye and fin elements" alt="Borg Orca with bionic eye and fin elements" width=300><img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Coffee_Orca_with_mug.png?raw=true" title="Coffee Orca with mug" alt="Coffee Orca with mug" width=300>
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Gangsta_Orca_with_thug_life_hoodie.png?raw=true" title="Gangsta Orca with thug life hoodie" alt="Gangsta Orca with thug life hoodie" width=300>
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Graduate_Orca_with_certificate_and_moartarboard.png?raw=true" title="Graduate Orca with certificate and moartarboard" alt="Graduate Orca with certificate and moartarboard" width=300>
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Idea_Orca_with_lightbulb_above_head.png?raw=true" title="Idea Orca with lightbulb above head" alt="Idea Orca with lightbulb above head" width=300>
