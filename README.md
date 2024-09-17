@@ -17,29 +17,17 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 Most recent additions to OEEEO's family:
 
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Borg_Orca_with_bionic_eye_and_fin_elements.png?raw=true" title="Borg Orca with bionic eye and fin elements" alt="Borg Orca with bionic eye and fin elements" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Coffee_Orca_with_mug.png?raw=true" title="Coffee Orca with mug" alt="Coffee Orca with mug" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Gangsta_Orca_with_thug_life_hoodie.png?raw=true" title="Gangsta Orca with thug life hoodie" alt="Gangsta Orca with thug life hoodie" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Graduate_Orca_with_certificate_and_moartarboard.png?raw=true" title="Graduate Orca with certificate and moartarboard" alt="Graduate Orca with certificate and moartarboard" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Idea_Orca_with_lightbulb_above_head.png?raw=true" title="Idea Orca with lightbulb above head" alt="Idea Orca with lightbulb above head" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Italian_Orca_with_striped_shirt_hat_and_pasta_fork.png?raw=true" title="Italian Orca with striped shirt hat and pasta fork" alt="Italian Orca with striped shirt hat and pasta fork" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Music_Orca_with_headphones_device_and_music_notes_emblem.png?raw=true" title="Music Orca with headphones device and music notes emblem" alt="Music Orca with headphones device and music notes emblem" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Rich_Orca_with_dollar_bill_guns.png?raw=true" title="Rich Orca with dollar bill guns" alt="Rich Orca with dollar bill guns" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Save_The_Planet_Orca_wiggling_around_globe.png?raw=true" title="Save The Planet Orca wiggling around globe" alt="Save The Planet Orca wiggling around globe" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Security_Orca_with_eyescanning_fingerprint_reader_and_badge_scanner.png?raw=true" title="Security Orca with eyescanning fingerprint reader and badge scanner" alt="Security Orca with eyescanning fingerprint reader and badge scanner" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Activist_Orca_with_FCK_YCHTS_emblem.png?raw=true" title="Activist Orca with FCK YCHTS emblem" alt="Activist Orca with FCK YCHTS emblem" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Activist_Orca_with_sledgehammer.png?raw=true" title="Activist Orca with sledgehammer" alt="Activist Orca with sledgehammer" width=300>
-
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Podcaster_Orca_with_mic_and_headphones.png?raw=true" title="Podcaster Orca with mic and headphones" alt="Podcaster Orca with mic and headphones" width=300>
 
 
