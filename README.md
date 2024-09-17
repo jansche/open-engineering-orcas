@@ -15,6 +15,20 @@ OEEEO is the mascot of Open Engineering at E.ON Digital Technology. OEEEO's pron
 <img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="comic style pride orca" alt="comic style pride orca" width=300>
 
 Most recent additions to OEEEO's family:
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/Borg_Orca_with_bionic_eye_and_fin_elements.png?raw=true" title="Borg Orca with bionic eye and fin elements" alt="Borg Orca with bionic eye and fin elements" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+<img src="https://github.com/jansche/open-engineering-orcas/blob/main/design/comic/new%20pride%20orca.png?raw=true" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
+
 
 <img src="https://github.com/user-attachments/assets/af9191cc-ef70-483a-bf1e-0dce62dc2503" title="smash the patriarchy orca" alt="smash the patriarchy orca" width=300>
 
