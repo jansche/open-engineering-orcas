@@ -18,4 +18,5 @@ These design files may be contributions from various people. To have your design
 ![](comic/orca%20sprayer%20scenery%202.png?raw=true)
 ![](comic/pizza%20orca.png?raw=true)
 ![](comic/senior%20engineer%20orca.png?raw=true)
+![](comic/orca_ferris_umrandet.png)
 
